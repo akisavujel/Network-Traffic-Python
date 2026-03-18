@@ -43,7 +43,6 @@ A data analysis project to identify patterns in network traffic and prepare data
 **Akisha Bhujel**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/akishabhujel/)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/akisavujel)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF)](https://www.kaggle.com/akisavujel)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF)](https://hashnode.com/@akisavujel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://akisavujel.github.io/Portfolio/)
