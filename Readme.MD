@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-family: 'Georgia', serif; font-size: 32px; font-weight: 700; color: inherit; margin: 20px 0 8px 0;">Network Traffic <em style="font-style: italic; color: #2d5a4f;">Data Analysis</em></h1>
+<h1 style="text-align: center; font-family: 'Georgia', serif; font-size: 32px; font-weight: 700; color: inherit; margin: 20px 0 8px 0;"> 🌐 Network Traffic <em style="font-style: italic; color: #2d5a4f;">Data Analysis</em></h1>
 
 <br/>
 <img src="https://www.secquest.co.uk/wp-content/uploads/2024/04/network-security-2048x1365.jpg" style="width: 100%; max-width: 600px; border-radius: 12px; display: block; margin: 0 auto; box-shadow: 0 4px 16px rgba(0,0,0,0.15);"/>
