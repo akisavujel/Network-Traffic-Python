@@ -132,7 +132,6 @@ The goal is to understand network flow properties, discover significant relation
 network-traffic-analysis/
 │
 ├── network_traffic_analysis.ipynb   # Main Jupyter Notebook
-├── ids_traffic.csv                   # CICIDS dataset (add manually)
 ├── pdf/                              # document on project 
 └── README.md                        # Project documentation
 ```
